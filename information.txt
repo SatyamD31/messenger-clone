@@ -1,0 +1,2 @@
+Project Console: https://console.firebase.google.com/project/messenger-clone-351c7/overview
+Hosting URL: https://messenger-clone-351c7.web.app
